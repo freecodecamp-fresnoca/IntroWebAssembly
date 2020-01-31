@@ -15,7 +15,7 @@ Lets you run whatever langulage you want in the browser as long as its wasm comp
 2. A Progressive Web App terminal: https://github.com/wasmerio/webassembly.sh
 4. Lots of things: https://madewithwebassembly.com/
 5. Yet more projects: https://github.com/mbasso/awesome-wasm
-
+6. WebAssembly Package Manager: https://www.wapm.io/
 
 ## Projects that you can run right now!
 1. The Basics (and installation): http://webassembly.org/getting-started/developers-guide/
