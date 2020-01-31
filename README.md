@@ -24,4 +24,9 @@ Lets you run whatever langulage you want in the browser as long as its wasm comp
 5. C#/Blazor: https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 6. Go in wasm: https://github.com/golang/go/wiki/WebAssembly
 
+
+Coming soon:
+Angular 9 + wasm (Mostly from example project): https://github.com/michaelachrisco/angular-wasm
+
+
 Questions? Comments?
